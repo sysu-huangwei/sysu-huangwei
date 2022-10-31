@@ -28,15 +28,14 @@ We're making the world a better place. Through constructing elegant hierarchies 
 
 
 ## 部分成果展示
-### PS基础图片特效
-#### 1.亮度
-![效果](https://img-blog.csdnimg.cn/6ca14400a7f64b928ec5da32154c2986.gif)
+### 1.PS基础图片特效
+#### 亮度、对比度、饱和度、色阶
+![效果](https://img-blog.csdnimg.cn/6ca14400a7f64b928ec5da32154c2986.gif)![效果](https://img-blog.csdnimg.cn/3293093c3b1c466c8171760e77c50800.gif)![效果](https://img-blog.csdnimg.cn/5c600d11e25d4b808bc7364b345f09a3.gif)![效果](https://img-blog.csdnimg.cn/9a041661450d4d36aa4729f7b014f383.gif)
 
-#### 2.对比度
-![效果](https://img-blog.csdnimg.cn/3293093c3b1c466c8171760e77c50800.gif)
+### 2.滤镜效果
 
-#### 3.饱和度
-![效果](https://img-blog.csdnimg.cn/5c600d11e25d4b808bc7364b345f09a3.gif)
+### 3.磨皮效果
 
-#### 4.色阶
-![效果](https://img-blog.csdnimg.cn/9a041661450d4d36aa4729f7b014f383.gif)
+### 4.瘦脸效果
+
+### 5.美妆效果
