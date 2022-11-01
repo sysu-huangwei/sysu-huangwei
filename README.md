@@ -31,6 +31,8 @@ We're making the world a better place. Through constructing elegant hierarchies 
 ### 1.PS基础图片特效
 #### 亮度、对比度、饱和度、色阶
 ![效果](https://img-blog.csdnimg.cn/319371e8059c4b16b273b76cb8ed03f8.gif) ![效果](https://img-blog.csdnimg.cn/9d040fb73d7e4151b79c8bf79becf0dd.gif )![效果](https://img-blog.csdnimg.cn/56b8c89da53c4eb6981a10f6d6b61efc.gif) ![效果](https://img-blog.csdnimg.cn/bbf100307df043578520a19deee92b3e.gif)
+##### 效果文档：
+[PS里的亮度/对比度/饱和度/色阶算法-OpenGL实现](https://blog.csdn.net/q345911572/article/details/127462885)
 
 ### 2.滤镜效果
 ![效果](https://img-blog.csdnimg.cn/61c145ff4e344f65b0480a3d5d7f1a99.gif)
