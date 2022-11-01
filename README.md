@@ -33,6 +33,8 @@ We're making the world a better place. Through constructing elegant hierarchies 
 ![效果](https://img-blog.csdnimg.cn/319371e8059c4b16b273b76cb8ed03f8.gif) ![效果](https://img-blog.csdnimg.cn/9d040fb73d7e4151b79c8bf79becf0dd.gif )![效果](https://img-blog.csdnimg.cn/56b8c89da53c4eb6981a10f6d6b61efc.gif) ![效果](https://img-blog.csdnimg.cn/bbf100307df043578520a19deee92b3e.gif)
 
 ### 2.滤镜效果
+![效果](https://img-blog.csdnimg.cn/61c145ff4e344f65b0480a3d5d7f1a99.gif)
+##### 滤镜效果文档：
 [给世界上色——滤镜底层原理](https://blog.csdn.net/q345911572/article/details/119351319)
 
 ### 3.磨皮效果
