@@ -45,3 +45,4 @@ We're making the world a better place. Through constructing elegant hierarchies 
 ### 4.瘦脸效果
 
 ### 5.美妆效果
+![效果](https://img-blog.csdnimg.cn/15ce5f7d32694e87b50173bace7b0860.gif)
