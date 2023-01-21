@@ -27,7 +27,7 @@ We're making the world a better place. Through constructing elegant hierarchies 
 
 
 
-## 部分成果展示
+## 部分成果展示（以下包含动图，可能加载比较慢，需要帅气的你一点点🤏🏻耐心，你可以的）
 ### 1.PS基础图片特效
 #### 亮度、对比度、饱和度、色阶
 ![效果](https://img-blog.csdnimg.cn/319371e8059c4b16b273b76cb8ed03f8.gif) ![效果](https://img-blog.csdnimg.cn/9d040fb73d7e4151b79c8bf79becf0dd.gif )![效果](https://img-blog.csdnimg.cn/56b8c89da53c4eb6981a10f6d6b61efc.gif) ![效果](https://img-blog.csdnimg.cn/bbf100307df043578520a19deee92b3e.gif)
