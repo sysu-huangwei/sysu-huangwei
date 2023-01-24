@@ -52,6 +52,6 @@ We're making the world a better place. Through constructing elegant hierarchies 
 ### 5.美妆效果
 ##### 美妆效果文档：
 [人像美妆效果实现（贴纸）——OpenGL实现](https://blog.csdn.net/q345911572/article/details/127644640)<br>
-![效果](https://img-blog.csdnimg.cn/15ce5f7d32694e87b50173bace7b0860.gif)
+![效果](https://img-blog.csdnimg.cn/170fd73692d841d4aa6a4b06dbe96268.gif)
 
 
