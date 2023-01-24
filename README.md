@@ -44,8 +44,14 @@ We're making the world a better place. Through constructing elegant hierarchies 
 [美颜的奥秘——磨皮底层原理](https://blog.csdn.net/q345911572/article/details/119901671)
 
 ### 4.瘦脸效果
+##### 瘦脸效果文档：
+[人像瘦脸效果实现——OpenGL实现](https://blog.csdn.net/q345911572/article/details/128758125)
+![效果](https://img-blog.csdnimg.cn/410856d7920141dfbe90ca34129496a5.gif)
+
 
 ### 5.美妆效果
 ##### 美妆效果文档：
-[人像美妆效果实现（贴纸）——OpenGL实现](人像美妆效果实现（贴纸）——OpenGL实现)
+[人像美妆效果实现（贴纸）——OpenGL实现](https://blog.csdn.net/q345911572/article/details/127644640)
 ![效果](https://img-blog.csdnimg.cn/15ce5f7d32694e87b50173bace7b0860.gif)
+
+
