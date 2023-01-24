@@ -42,7 +42,7 @@ We're making the world a better place. Through constructing elegant hierarchies 
 ### 3.磨皮效果
 ##### 磨皮效果文档：
 [美颜的奥秘——磨皮底层原理](https://blog.csdn.net/q345911572/article/details/119901671)<br>
-![效果](https://img-blog.csdnimg.cn/deae60f406324b779f67379c0cc11c60.gif)
+![效果](https://img-blog.csdnimg.cn/7eb28fa1bbec497886e0abbc80ed7f83.gif)
 
 ### 4.瘦脸效果
 ##### 瘦脸效果文档：
