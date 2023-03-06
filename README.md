@@ -28,31 +28,32 @@ We're making the world a better place. Through constructing elegant hierarchies 
 
 
 ## 部分成果展示（以下包含动图，可能加载比较慢，需要帅气的你一点点🤏🏻耐心，你可以的）
-### 1.PS基础图片特效
-#### 亮度、对比度、饱和度、色阶
-![效果](https://img-blog.csdnimg.cn/319371e8059c4b16b273b76cb8ed03f8.gif) ![效果](https://img-blog.csdnimg.cn/9d040fb73d7e4151b79c8bf79becf0dd.gif )![效果](https://img-blog.csdnimg.cn/56b8c89da53c4eb6981a10f6d6b61efc.gif) ![效果](https://img-blog.csdnimg.cn/bbf100307df043578520a19deee92b3e.gif)
-##### 效果文档：
-[PS里的亮度/对比度/饱和度/色阶算法-OpenGL实现](https://blog.csdn.net/q345911572/article/details/127462885)
-
-### 2.滤镜效果
+### 1.滤镜效果
 ![效果](https://img-blog.csdnimg.cn/61c145ff4e344f65b0480a3d5d7f1a99.gif)
 ##### 滤镜效果文档：
 [给世界上色——滤镜底层原理](https://blog.csdn.net/q345911572/article/details/119351319)
 
-### 3.磨皮效果
+### 2.磨皮效果
 ##### 磨皮效果文档：
 [美颜的奥秘——磨皮底层原理](https://blog.csdn.net/q345911572/article/details/119901671)<br>
+[基于边缘检测的磨皮算法实现——OpenGL版](https://blog.csdn.net/q345911572/article/details/129362387)<br>
 ![效果](https://img-blog.csdnimg.cn/7eb28fa1bbec497886e0abbc80ed7f83.gif)
 
-### 4.瘦脸效果
+### 3.瘦脸效果
 ##### 瘦脸效果文档：
 [人像瘦脸效果实现——OpenGL实现](https://blog.csdn.net/q345911572/article/details/128758125)<br>
 ![效果](https://img-blog.csdnimg.cn/410856d7920141dfbe90ca34129496a5.gif)
 
 
-### 5.美妆效果
+### 4.美妆效果
 ##### 美妆效果文档：
 [人像美妆效果实现（贴纸）——OpenGL实现](https://blog.csdn.net/q345911572/article/details/127644640)<br>
 ![效果](https://img-blog.csdnimg.cn/170fd73692d841d4aa6a4b06dbe96268.gif)
+
+### 5.PS基础图片特效
+#### 亮度、对比度、饱和度、色阶
+![效果](https://img-blog.csdnimg.cn/319371e8059c4b16b273b76cb8ed03f8.gif) ![效果](https://img-blog.csdnimg.cn/9d040fb73d7e4151b79c8bf79becf0dd.gif )![效果](https://img-blog.csdnimg.cn/56b8c89da53c4eb6981a10f6d6b61efc.gif) ![效果](https://img-blog.csdnimg.cn/bbf100307df043578520a19deee92b3e.gif)
+##### 效果文档：
+[PS里的亮度/对比度/饱和度/色阶算法-OpenGL实现](https://blog.csdn.net/q345911572/article/details/127462885)
 
 
